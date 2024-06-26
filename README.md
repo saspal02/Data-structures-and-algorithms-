@@ -1,3 +1,3 @@
-# Kunal-Kushwaha-DSA-Solutions
+# DSA-learnings-and-Solutions
 
-This repository contains all of the Kunal Kushwaha DSA course's assignment solutions.
+This repository contains all of my learnings and code while doing Data structures and algorithms.
