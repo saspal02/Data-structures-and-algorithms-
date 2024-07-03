@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/OOP" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Patterns" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Access Control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Access control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Object methods" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

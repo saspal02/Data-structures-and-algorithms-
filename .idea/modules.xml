@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Data-structures-and-algorithms-.iml" filepath="$PROJECT_DIR$/Data-structures-and-algorithms-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/conditional-loops/conditional-loops.iml" filepath="$PROJECT_DIR$/conditional-loops/conditional-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional-loops/conditional-loops.iml" filepath="$PROJECT_DIR$/Conditional-loops/conditional-loops.iml" />
     </modules>
   </component>
 </project>
