@@ -1,6 +1,6 @@
 package Inheritance.Super;
 
-class Parent {
+public class Parent {
     Parent() {
         System.out.println("Parent class constructor called");
     }
