@@ -14,6 +14,13 @@ public class EvenOdd {
         } else {
             System.out.println(number + " is odd.");
         }
+        //Another implementation
+        int n = 67;
+        System.out.println(isOdd(n));
+    }
+    //Another implementation
+    private static boolean isOdd(int n) {
+        return (n & 1) == 1;
     }
 }
 
