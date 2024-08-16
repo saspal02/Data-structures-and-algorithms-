@@ -12,6 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Object methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Abstract Classes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Searching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exception Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-8" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
