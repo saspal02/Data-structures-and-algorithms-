@@ -1,0 +1,28 @@
+Integer Types:
+
+%d: Decimal integer
+%o: Octal integer
+%x: Hexadecimal integer (lowercase)
+%X: Hexadecimal integer (uppercase)
+
+Floating-Point Types:
+
+%f: Decimal floating-point
+%e: Scientific notation (lowercase)
+%E: Scientific notation (uppercase)
+%g: Uses %f or %e, whichever is shorter
+%G: Uses %f or %E, whichever is shorter
+
+Character and String Types:
+
+%c: Character
+%s: String
+
+Boolean Types:
+
+%b: Boolean (true or false)
+
+Miscellaneous:
+
+%n: Platform-specific newline
+%%: A literal percent sign
