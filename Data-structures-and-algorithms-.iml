@@ -18,6 +18,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Math" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StackandQueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Hashmaps" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
